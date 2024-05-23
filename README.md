@@ -84,9 +84,8 @@ This analysis highlights several important trends in school performance:
 3. **School Type**: Charter schools outperform district schools significantly, indicating potential benefits from the charter school model, such as greater flexibility and autonomy.
 
 ## Code Source
-1. **Learning Assistant
-2. **GitHub location: https://github.com/jeffjunohkim/python-challenge.git
-
+1. Learning Assistant
+2. GitHub location: https://github.com/jeffjunohkim/pandas-challenge.git
 
 
 
