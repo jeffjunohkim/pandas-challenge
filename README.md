@@ -83,6 +83,10 @@ This analysis highlights several important trends in school performance:
 2. **Impact of School Size**: Smaller schools tend to have better academic performance, suggesting the benefits of more personalized and focused educational environments.
 3. **School Type**: Charter schools outperform district schools significantly, indicating potential benefits from the charter school model, such as greater flexibility and autonomy.
 
-These insights can help stakeholders make informed decisions about resource allocation, school size management, and the adoption of best practices from high-performing charter schools.
+## Code Source
+1. **Learning Assistant
+2. **GitHub location: https://github.com/jeffjunohkim/python-challenge.git
+
+
 
 
